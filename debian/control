@@ -1,0 +1,12 @@
+Source: ros-hydro-pocketsphinx
+Section: misc
+Priority: extra
+Maintainer: Michael Ferguson <mike@vanadiumlabs.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/pocketsphinx
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pocketsphinx
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, gstreamer0.10-pocketsphinx, ros-hydro-geometry-msgs, ros-hydro-rospy, ros-hydro-std-msgs, ros-hydro-std-srvs
+Description: This package is a simple wrapper around the pocketsphinx speech recognizer, using gstreamer and a Python-based interface.

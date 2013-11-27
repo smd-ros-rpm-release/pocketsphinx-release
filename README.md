@@ -1,3 +1,22 @@
+## pocketsphinx - 0.2.3-0
+
+User `mikef@coruscant` released the packages in the `pocketsphinx` repository by running `/usr/bin/bloom-release pocketsphinx --track groovy --rosdistro groovy` on `Wed, 27 Nov 2013 17:33:59 -0000`
+
+The `pocketsphinx` package was released.
+
+Version of package(s) in repository `pocketsphinx`:
+- rosdistro version: `0.2.1-0`
+- old version: `0.2.1-0`
+- new version: `0.2.3-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.20`
+- rosdep version: `0.10.22`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.30`
+
+
 ## pocketsphinx - 0.2.2-0
 
 User `mikef@coruscant` released the packages in the `pocketsphinx` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro pocketsphinx` on `Sun, 29 Sep 2013 19:25:37 -0000`

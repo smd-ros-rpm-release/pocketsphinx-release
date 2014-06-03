@@ -1,0 +1,35 @@
+ros-hydro-pocketsphinx (0.3.1-0quantal) quantal; urgency=high
+
+  * add ~source parameter, for setting things like 'alsasrc'
+  * add depend on python-gst
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mike@vanadiumlabs.com>  Tue, 03 Jun 2014 07:00:00 -0000
+
+ros-hydro-pocketsphinx (0.3.0-0quantal) quantal; urgency=high
+
+  * Convert print statements to rosinfo/rosdebugs
+  * Change language model at runtime + specify audio source
+
+ -- Michael Ferguson <mike@vanadiumlabs.com>  Wed, 27 Nov 2013 08:00:00 -0000
+
+ros-hydro-pocketsphinx (0.2.2-0quantal) quantal; urgency=high
+
+  * Add changelog
+
+ -- Michael Ferguson <mike@vanadiumlabs.com>  Sun, 29 Sep 2013 07:00:00 -0000
+
+ros-hydro-pocketsphinx (0.2.1-0quantal) quantal; urgency=high
+
+  * Fix install rules so that python scripts are executable
+
+ -- Michael Ferguson <mike@vanadiumlabs.com>  Sat, 21 Sep 2013 07:00:00 -0000
+
+ros-hydro-pocketsphinx (0.2.0-0quantal) quantal; urgency=high
+
+  * Added support for grammar fsg files
+  * First catkinized release
+
+ -- Michael Ferguson <mike@vanadiumlabs.com>  Fri, 12 Jul 2013 07:00:00 -0000
+
+

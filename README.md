@@ -1,3 +1,22 @@
+## pocketsphinx (indigo) - 0.4.0-0
+
+The packages in the `pocketsphinx` repository were released into the `indigo` distro by running `/usr/bin/bloom-release pocketsphinx -t indigo -r indigo --new-track` on `Tue, 03 Jun 2014 08:37:42 -0000`
+
+The `pocketsphinx` package was released.
+
+Version of package(s) in repository `pocketsphinx`:
+- rosdistro version: `0.3.0-0`
+- old version: `0.3.0-0`
+- new version: `0.4.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.30`
+
+
 ## pocketsphinx (hydro) - 0.3.1-0
 
 The packages in the `pocketsphinx` repository were released into the `hydro` distro by running `/usr/bin/bloom-release pocketsphinx -t hydro -r hydro` on `Tue, 03 Jun 2014 08:32:27 -0000`
